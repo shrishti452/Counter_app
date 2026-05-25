@@ -4,6 +4,7 @@ body{
     align-items:center;
     height: 100vh;
     background-color:lightblue;
+    transition: 0.3s;
 }
 .container{
     text-align:center;
@@ -15,5 +16,5 @@ button{
     padding:10px 20px;
     margin: 10px;
     font-size:18px;
-    cursor:pointer;
+    cursor:circle;
 }
